@@ -4,8 +4,8 @@ const users = [
 ];
 
 const venues = [
-  { id: 1, name: "Community Hall", pricePerVisit: 1, dailyCapacity: 10 },
-  { id: 2, name: "gym", pricePerVisit: 1, dailyCapacity: 5 }
+  { id: 101, name: "Community Hall", pricePerVisit: 1, dailyCapacity: 10 },
+  { id: 102, name: "gym", pricePerVisit: 1, dailyCapacity: 5 }
 ];
 
 const bookings = [];
